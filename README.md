@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongMin's%20GitHub&fontSize=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=JeongMin's%20GitHub&fontSize=40&animation=twinkling)
 
 <!--
 **plou102/plou102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
